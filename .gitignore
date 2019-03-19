@@ -2,5 +2,6 @@
 __pycache__/
 env/
 redis-stable/
+dump.rdb
 
 
